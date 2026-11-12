@@ -71,9 +71,8 @@ Nếu thiếu tài khoản hoặc không mở được repository, báo Lab Coac
 
 ## Hướng dẫn từng bước
 
-### Bước 1 — Tạo repository bài làm từ template
-
-Mở repository bằng link do GV/Lab Coach cung cấp, nhấn **Use this template → Create a new repository**.
+### Bước 1 — Tạo repository bài làm
+nhấn **Create a new repository**.
 Chọn tài khoản GitHub của bạn làm owner, đặt tên theo mẫu
 `<KHOA>-L2-DAY01-HoVaTen-MSSV-Data-Overview-AI-ML-DL` và chọn **Public** để Lab Coach mở được link nộp.
 Thay `<KHOA>` bằng mã khóa của bạn, ví dụ `K4-L2-DAY01-NguyenVanAn-12345678-Data-Overview-AI-ML-DL`.
